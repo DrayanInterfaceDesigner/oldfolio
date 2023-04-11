@@ -33,26 +33,28 @@ p {
   flex-direction: column;
   align-items: center;
   max-width: 90%;
-  padding: 5rem 2rem;
+  padding: 5rem 0;
 }
 .Post {
     width: 100%;
-    padding: 0 1rem;
+    padding: 0 0;
 }
 
-@media screen and (min-width: 50rem) {
-    .Content{
-        padding: 5rem 0;
-        max-width: 90%;
-    }
 .image {
     padding: 2rem;
     width: 100% !important;
     overflow-x: hidden;
 }
-    .Hero .i-am, .Hero .name {
+ .Hero .i-am, .Hero .name {
     margin: 0;
 }
+
+@media screen and (min-width: 50rem) {
+    .Content{
+        padding: 5rem 2rem;
+        max-width: 90%;
+    }
+
 }
 
 @keyframes appear_from_top {
