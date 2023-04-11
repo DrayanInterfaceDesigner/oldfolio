@@ -42,13 +42,16 @@ p {
 
 @media screen and (min-width: 50rem) {
     .Content{
-        padding: 5rem 1rem;
+        padding: 5rem 0;
         max-width: 90%;
     }
 .image {
     padding: 2rem;
     width: 100% !important;
     overflow-x: hidden;
+}
+    .Hero .i-am, .Hero .name {
+    margin: 0;
 }
 }
 
