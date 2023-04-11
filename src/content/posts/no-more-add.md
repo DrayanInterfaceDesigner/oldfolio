@@ -17,6 +17,7 @@ II. Minha mãe trabalha com atendimento público, e durante a fase remota da pan
 
 
 Então eu fiz uma aplicação web para me confortar que cumprisse com o objetivo de com apenas um clique, me levar de uma aba, para uma aplicação, já no chat com quem eu queria conversar.
+
 Essa se tornou tão prática e indispensável na minha vida que comecei a notar problemas durante o uso, e o mais
 incômodo deles era ter que manter uma aba ou um navegador separado sempre aberto. Isso sozinho não era um bom motivador, mas após minha mãe começar a usar a aplicação pra trabalhar e perceber os mesmos defeitos, eu 
 resolvi que era hora de levar isso pro desktop, então desenvolvi uma versão em C# para plataformas Windows.
