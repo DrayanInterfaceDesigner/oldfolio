@@ -51,8 +51,8 @@ const IndexPage = ({data}) => (
       <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"></link>
     </Helmet>
     <Nav></Nav>
-    <ContentWrapper>
-      <Content>
+    <ContentWrapper className="ContentWrapper">
+      <Content className="Content">
         <Hero
           iam = "Desenvolvedor & Designer UI"
           name="Drayan Silva Magalhães"
