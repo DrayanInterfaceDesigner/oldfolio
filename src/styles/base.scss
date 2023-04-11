@@ -36,14 +36,16 @@ p {
     width: 100%;
     padding: 0 1rem;
 }
+    .image {
+        width: 100%;
+        padding: 0 0;
+    }
 @media screen and (min-width: 50rem) {
     .Content{
         padding: 5rem 1rem;
         max-width: 90%;
     }
     .Hero .image {
-        margin: none;
-        object-fit: cover;
         width: 100%;
         padding: 0 0;
     }
