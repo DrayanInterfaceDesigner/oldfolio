@@ -42,12 +42,12 @@ p {
 
 .image {
     padding: 2rem;
-    width: 100% !important;
+    width: 100%;
     overflow-x: hidden;
 }
 
 .Hero .i-am, .Hero .name {
-    margin: 0 !important;
+    margin: 0;
 }
 
 @media screen and (min-width: 50rem) {
