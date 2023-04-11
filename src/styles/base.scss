@@ -41,8 +41,10 @@ p {
         max-width: 90%;
     }
     .Hero .image {
-        padding: 0 2rem;
+        margin: none;
+        object-fit: cover;
         width: 100%;
+        padding: 0 2rem;
     }
 }
 
