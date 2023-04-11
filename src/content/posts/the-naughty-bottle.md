@@ -9,14 +9,14 @@ slug: the-naughty-bottle
 
 # Sobre o projeto
 
-Esse foi um projeto de primeiro período do curso de Ciência da Computação na PUC-PR.
+Esse foi um projeto de primeiro período do curso de Ciência da Computação na PUC-PR. <br>
 Ele foi feito em conjunto, eu fiz o front, design e integrações com bibliotecas JS, e
 a minha companheira de turma fez toda a implementação do backend assim como a criação do
 servidor.
 
 # Temática
 
-A ideia por trás dele era tralhar com sistemas de vendas de produto e manipulação de estoque, e escolhemos como tema uma loja fictícia que vende produtos estranhos, mágicos e pouco confiáveis - com várias referências à jogos RPG, óbvio.
+A ideia por trás dele era tralhar com sistemas de vendas de produto e manipulação de estoque, e escolhemos como tema uma loja fictícia que vende produtos estranhos, mágicos e pouco confiáveis - com várias referências à jogos RPG, óbvio.<br>
 Ele possui assets 3D (créditos aos criadores no site), animações CSS e em SVG avançadas e pode ser um pouco
 lento pela sua implementação feita na hora do galo cantar (culpa minha!), porém o tempo era curto pra uma ideia exageradamente ousada para um primeiro período (valeu a pena, ê ê).
 
