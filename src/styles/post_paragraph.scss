@@ -1,0 +1,24 @@
+.PostParagraph {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: left;
+    color: var(--text-bright-color);
+    margin: 2.5rem 3rem;
+
+    .title, h1, h2, h3, h4, h5, h6{
+        font-family: var(--font-main);
+        font-weight: 600;
+        font-size: var(--text-section-title-size);
+        margin: 1.3rem 0;
+
+    }
+    .text, p, a {
+        font-family: var(--font-sub);
+        font-weight: 200;
+        font-size: var(--text-read-size);
+        line-height: 2rem;
+    }
+}

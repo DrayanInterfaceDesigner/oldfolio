@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    background-color: rgba( 28, 28, 28, 1 );
+}
+
+p {
+    margin: 0;
+}
+
+* {
+    text-decoration: none;
+    box-sizing: border-box;
+//    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+@keyframes appear_from_top {
+    from { transform: translateY(-15%); opacity: 0;}
+    to { transform: translateY(0%); opacity: 1;}
+}

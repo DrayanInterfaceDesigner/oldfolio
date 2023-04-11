@@ -1,0 +1,27 @@
+.PostTitle {
+
+    color: var(--text-bright-color);
+    font-size: clamp(1.5rem, 2.5rem, 3rem);
+    font-weight: 700;
+    text-align: center;
+    margin: 1rem 0;
+
+    .subtitle {
+        font-family: var(--font-main);
+        color: var(--text-read-color);
+        font-size: var(--text-subtitle-size);
+        font-weight: 200;
+        font-style: italic;
+        text-align: center;
+        margin: 1rem 0;
+    }
+}
+
+
+@media screen and (min-width: 50rem) {
+    .PostTitle {
+        font-size: var(--text-title-size);
+        text-align: center;
+        margin: 1rem;
+    }
+}

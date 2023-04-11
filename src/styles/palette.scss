@@ -1,0 +1,22 @@
+:root {
+    --font-main: 'Montserrat', sans-serif;
+    --font-sub: 'Josefin Sans', sans-serif;
+
+    --line-color: #2D2D2D;
+    --bg-color: #1C1C1C;
+    --text-hover-color: #9F9E9E;
+    --text-out-color: #686868;
+    --text-bright-color: #CDCDCD;
+    --text-read-color: #9F9E9E;
+    --theme-color: #FF0055;
+    --theme-gradient-color: linear-gradient(142.85deg, rgba(233, 0, 47, 1) 0%, rgba(251, 11, 91, 1) 100%);
+
+    --text-title-size: clamp(2rem, 3rem, 4rem);
+    --text-subtitle-size: clamp(1.3rem, 1.7rem, 2.9rem);
+    --text-section-title-size: clamp(1.2rem, 1.7rem, 2.2rem);
+    --text-below-size: 100%;
+    --text-tag-size: clamp(.8rem, 1rem, 2.3rem);
+    --text-read-size: clamp(1rem, 1.3rem, 2rem);
+    --text-navbar-size: clamp(.5rem, .8rem, 2rem);
+    --text-button-size: clamp(.5rem, .8rem, 2rem);
+}

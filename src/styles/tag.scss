@@ -1,0 +1,19 @@
+.Tag {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: var(--font-main);
+    font-weight: 500;
+    font-size: var(--text-tag-size);
+    color: var(--text-bright-color);
+    background: var(--theme-gradient-color);
+
+    padding: 10px 1.5rem;
+    border-radius: 2rem;
+
+    pointer-events: none;
+
+    p {
+        margin-inline: 2rem;
+    }
+}
