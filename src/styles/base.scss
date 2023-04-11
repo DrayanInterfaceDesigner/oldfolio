@@ -1,6 +1,7 @@
 body {
     margin: 0;
     background-color: rgba( 28, 28, 28, 1 );
+    overflow-x: hidden;
 }
 
 p {
@@ -37,7 +38,7 @@ p {
     padding: 0 1rem;
 }
     .image {
-        width: 100%;
+        width: 100% !important;
         padding: 0 0;
     }
 @media screen and (min-width: 50rem) {
@@ -46,7 +47,7 @@ p {
         max-width: 90%;
     }
     .Hero .image {
-        width: 100%;
+        width: 100% !important;
         padding: 0 0;
     }
 }
