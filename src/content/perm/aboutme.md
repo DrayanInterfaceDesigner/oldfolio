@@ -25,7 +25,7 @@ de trabalho ou pesquisa.
 
 No momento estou na minha primeira iniciação científica, e devo dizer que experimentar o gosto da ciência aplicada num objeto de
 estudo é viciante. Sua temática "RECONSTRUÇÃO 3D BASEADA EM FOTOGRAMETRIA PARA REALIDADE MISTA EM AMBIENTES VIRTUAIS DE SIMULAÇÃO INTERATIVA" se alinha com meu foco de estudos e seu desenvolvimento é, de forma alguma surpreendente, extremamente divertido.
-
+<br>
 Publiquei meu primeiro relatório e caso queira dar uma olhada, você pode encontrá-lo aqui:
 <br>
 https://drive.google.com/file/d/14xLo5TlKAyCl-2Hgh9ZuE_hmcKgZVXlO/view?usp=sharing
