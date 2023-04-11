@@ -27,22 +27,24 @@ No momento estou na minha primeira iniciação científica, e devo dizer que exp
 estudo é viciante. Sua temática "RECONSTRUÇÃO 3D BASEADA EM FOTOGRAMETRIA PARA REALIDADE MISTA EM AMBIENTES VIRTUAIS DE SIMULAÇÃO INTERATIVA" se alinha com meu foco de estudos e seu desenvolvimento é, de forma alguma surpreendente, extremamente divertido.
 
 Publiquei meu primeiro relatório e caso queira dar uma olhada, você pode encontrá-lo aqui:
-<hr>
+<br>
 https://drive.google.com/file/d/14xLo5TlKAyCl-2Hgh9ZuE_hmcKgZVXlO/view?usp=sharing
 
 (Mas recomendo a leitura em projects/pesquisa-relatorio-parcial.)
 
 # Competências 
-Design tendo sido meu foco de vida durante muito tempo, me tornei muito bom com desenvolvimento de interfaces do usuário e trabalhos nessa área comigo são de extrema qualidade, geralmente a execução é construída muito rapidamente por conta da prática.
+Design tendo sido meu foco de vida durante muito tempo, me tornei muito bom com desenvolvimento de interfaces de usuário, e trabalhos nessa área comigo são de extrema qualidade, geralmente a execução é construída muito rapidamente por conta da prática.<br>
 
 Meu foco durante muitos anos foi desenvolvimento web, então meu leque se estende principalmente sob este guarda-chuva - js, ts, html, css, 
-react etc. Sendo JavaScript e CSS puros minha especialidade.
+react etc. Sendo JavaScript e CSS puros minha especialidade.<br>
 
-Também me aventurei pelos confins do C com extremamente simples montagens com arduino e estudo da linguagem já na universidade. Experimentei linguagens como C++, Java e C#. Esse último possuindo um software simples de agenda de contatos com redirecionamento para o aplicativo desktop "Whatsapp" que você pode encontrar na sessão de projetos.
+Também me aventurei pelos confins do C com extremamente simples montagens com arduino e estudo da linguagem já na universidade.
+
+Experimentei linguagens como C++, Java e C#. Esse último possuindo um software simples de agenda de contatos com redirecionamento para o aplicativo desktop "Whatsapp" que você pode encontrar na sessão de projetos.<br>
 
 Infelizmente o motivo da criação à jato deste blog estático é o mesmo que me impede de provar todas as minhas competências: um disco rígido de
 backup defeituoso. Perdi cerca de 80% dos meus projetos (todos que já não estavam online), então compilei todos que consegui nesse blog com a
-esperança de poder mostrar ao leitor pelo menos parte de minha capacidade como desenvolvedor.
+esperança de poder mostrar ao leitor pelo menos parte de minha capacidade como desenvolvedor.<br>
 
 
 
