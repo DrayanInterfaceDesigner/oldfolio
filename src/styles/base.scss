@@ -45,8 +45,9 @@ p {
     width: 100% !important;
     overflow-x: hidden;
 }
- .Hero .i-am, .Hero .name {
-    margin: 0;
+
+.Hero .i-am, .Hero .name {
+    margin: 0 !important;
 }
 
 @media screen and (min-width: 50rem) {
@@ -54,7 +55,11 @@ p {
         padding: 5rem 2rem;
         max-width: 90%;
     }
-
+.image {
+    padding: 2rem;
+    width: 35rem;
+    overflow-x: hidden;
+}
 }
 
 @keyframes appear_from_top {
