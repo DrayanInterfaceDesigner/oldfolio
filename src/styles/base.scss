@@ -13,7 +13,60 @@ p {
 //    font-family: 'Josefin Sans', sans-serif;
     font-family: 'Montserrat', sans-serif;
 }
+const ContentWrapper = styled.div`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+`
 
+.ContentWrapper {
+     
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.Content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 90%;
+}
+
+@media screen and (min-width: 50rem) {
+    .Content{
+        padding: 5rem 2rem;
+        max-width: 90%;
+    }
+    .Post {
+        padding: 5rem 2rem;
+    }
+}
+
+const ContentWrapper = styled.div`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+`
+
+const Content = styled.div`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 90%;
+
+  
+@media screen and (min-width: 50rem) {
+  padding: 5rem 2rem;
+  .Post {
+    padding: 5rem 2rem;
+  }
+  max-width: 90%;
+}
+`
 
 @keyframes appear_from_top {
     from { transform: translateY(-15%); opacity: 0;}
